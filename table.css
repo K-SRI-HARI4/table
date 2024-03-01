@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 200px;
+}
+table,tr,td{
+    border: solid black;
+    border-collapse: collapse;
+    
+    margin: 20px;
+}
+.a{
+    color: white;
+    background-color: red;
+}
+.b{
+    background-color: yellow;
+}
+.c{
+    background-color:  azure;
+}
